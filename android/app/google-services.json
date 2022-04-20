@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415668878265",
+    "project_id": "loja-teste-84bb6",
+    "storage_bucket": "loja-teste-84bb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415668878265:android:782cad0f2bf5e16691d468",
+        "android_client_info": {
+          "package_name": "br.com.ferreira.lojavirtual.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415668878265-cujlf9at6tvqegf89n15dor9p8sp9j69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcgP84mRFYv-1q_o9iL8vm-mMR4BwE-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415668878265-cujlf9at6tvqegf89n15dor9p8sp9j69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
